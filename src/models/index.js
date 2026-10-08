@@ -1,0 +1,17 @@
+module.exports.Token = require('./token.model');
+module.exports.User = require('./user.model');
+module.exports.Error = require('./cron-error.model');
+module.exports.IpModel = require('./ip.model');
+module.exports.SystemLogsModel = require('./system-logs.model');
+module.exports.CronLogsModel = require('./cron-log.model');
+module.exports.EmailTemplatesModel = require('./email-templates.model');
+module.exports.ordermodel = require('./order.model');
+module.exports.MarketplaceModel = require('./marketplace.model');
+module.exports.AmazonCredentialsModel = require('./amazon-credentials.model');
+module.exports.SupportRequestModel = require('./support-request.model');
+module.exports.UserArchive = require('./user-archive.model');
+module.exports.Otp = require('./otp.model');
+module.exports.BlogModel = require('./blog.model');
+module.exports.UniversalOtp = require('./universal-otp.model');
+module.exports.WebsiteConfigurationModel = require('./website-configuration.model');
+module.exports.PlanModel = require('./plan.model');
